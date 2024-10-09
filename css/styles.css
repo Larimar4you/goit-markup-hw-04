@@ -107,6 +107,8 @@ h1,h2,h3,h4,h5,h6,p {
 }
 .nav-link:hover, 
 .nav-link:focus 
+.address-link:hover,
+.address-link:focus
 .nav-link.current { 
     color:#404bbf; 
 } 
@@ -126,11 +128,6 @@ gap: 40px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-}
-
-.address-link:hover,
-.address-link:focus {
-    color: #404bbf;
 }
 
 /* Hero Section*/
