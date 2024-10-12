@@ -238,22 +238,14 @@ width: 264px;
 height: 112px;
 background:  #f4f4fd;
 margin-bottom: 8px;
-justify-content: ;
-
+display: flex;
+justify-content: center;
+align-items: center;
 }
 
 .features-item {
-display: flex;
 width: calc((100% - 72px)/ 4);
-flex-direction: column;
-align-items: flex-start;
-gap: 8px;
 }
-
-.features-item:first-child {
-width: calc(((100% - 72px)/ 4)) 
-} 
-
 .our-team {    
 background-color: #f4f4fd;   
 text-align: center; 
