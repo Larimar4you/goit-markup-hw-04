@@ -109,7 +109,7 @@ border-radius: 2px;
 .address-link:hover,
 .address-link:focus
 .nav-link.current { 
-    color:#404bbf; 
+color: #404bbf; 
 } 
 
 .address {
