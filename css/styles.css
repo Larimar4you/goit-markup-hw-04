@@ -246,7 +246,6 @@ margin-bottom: 8px;
 display: flex;
 justify-content: center;
 align-items: center;
-fill: #404bbf;
 }
 
 .features-item {
@@ -296,7 +295,7 @@ height: 100%;
 border-radius: 50%;
 transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.team-card-soc-icon {
+.team-card-soc-item {
 fill:#f4f4fd;
 }
 .team-soc-link:hover,
