@@ -331,6 +331,8 @@ padding: 32px 16px;
 .portfolio-item-box {
 position: relative;
 overflow: hidden;
+}
+
 
 .portfolio-item-text {
 font-weight: 400;
